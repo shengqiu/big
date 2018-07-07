@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="546a578f-6d29-4f05-a126-eb5d21649411" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/bcg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/activate.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/activate_this.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/easy_install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/easy_install-2.7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/f2py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/iptest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/iptest2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ipython" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ipython2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/pip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/pip2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/pip2.7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/pygmentize" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/python-config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/python2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/python2.7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/skivi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/wheel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/python2.7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logisticRegression.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pip-selfcheck.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process_train_dataset.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/3d_drawing/mayavi2_spring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/advanced/iterated_dynamical_systems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/advanced/plot_eigenvalues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/advanced/plot_heavy_metal_umlaut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/advanced/plot_parallel_betweenness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/algorithms/beam_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/algorithms/hartford_drug.edgelist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/algorithms/plot_blockmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/algorithms/plot_davis_club.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/algorithms/plot_krackhardt_centrality.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/algorithms/rcm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/basic/plot_properties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/basic/plot_read_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/chess_masters_WCC.pgn.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/knuth_miles.txt.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/lanl_routes.edgelist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_atlas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_chess_masters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_circular_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_degree_histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_degree_rank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_directed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_edge_colormap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_ego_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_four_grids.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_giant_component.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_house_with_colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_knuth_miles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_labels_and_colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_lanl_routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_node_colormap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_random_geometric_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_sampson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_simple_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_spectral_grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_unix_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_weighted_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/unix_email.mbox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/atlas2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/expected_degree_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/plot_degree_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/plot_erdos_renyi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/plot_football.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/plot_karate_club.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/plot_napoleon_russian_campaign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/plot_roget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/roget_dat.txt.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/words_dat.txt.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/javascript/force.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/jit/plot_rgraph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/pygraphviz/pygraphviz_attributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/pygraphviz/pygraphviz_draw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/pygraphviz/pygraphviz_simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/pygraphviz/write_dotfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/subclass/plot_antigraph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/subclass/plot_printgraph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/man/man1/ipython.1.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlres.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xgboost.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/bcg$test.coverage" NAME="test Coverage Results" MODIFIED="1530645919345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="build.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zz.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zz.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="process_train_dataset.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/process_train_dataset.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>is_mod</find>
+      <find>cons</find>
+      <find>margin</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/process_train_dataset.sql" />
+        <option value="$PROJECT_DIR$/zz.py" />
+        <option value="$PROJECT_DIR$/build.py" />
+        <option value="$PROJECT_DIR$/process.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bcg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bcg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bcg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bcg" type="462c0819:PsiDirectoryNode" />
+              <item name="share" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.zz">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="bcg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bcg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="zz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bcg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.zz" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.zz" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="546a578f-6d29-4f05-a126-eb5d21649411" name="Default" comment="" />
+      <created>1530645418392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530645418392</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32965517" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="3" weight="0.28827587" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.5089655" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23034154" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database" order="8" weight="0.32893774" />
+      <window_info anchor="bottom" id="SciView" order="14" weight="0.61778474" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="right" x="0" y="0" width="269" height="1240" id="Documentation" side_tool="true" weight="0.32928804" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process_train_dataset.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
