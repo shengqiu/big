@@ -104,9 +104,10 @@ venv.bak/
 .mypy_cache/
 
 .DS_Store
-.idea
+.idea/
 bin
 include
 pip-selfcheck.json
 share
-
+.DS_Store
+data

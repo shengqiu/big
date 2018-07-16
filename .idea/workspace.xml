@@ -2,106 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="546a578f-6d29-4f05-a126-eb5d21649411" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/bcg.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/activate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/activate.csh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/activate.fish" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/activate_this.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/easy_install" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/easy_install-2.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/f2py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/iptest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/iptest2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/ipython" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/ipython2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/pip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/pip2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/pip2.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/pygmentize" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/python" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/python-config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/python2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/python2.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/skivi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/wheel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/python2.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logisticRegression.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pip-selfcheck.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process_train_dataset.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/3d_drawing/mayavi2_spring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/advanced/iterated_dynamical_systems.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/advanced/plot_eigenvalues.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/advanced/plot_heavy_metal_umlaut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/advanced/plot_parallel_betweenness.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/algorithms/beam_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/algorithms/hartford_drug.edgelist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/algorithms/plot_blockmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/algorithms/plot_davis_club.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/algorithms/plot_krackhardt_centrality.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/algorithms/rcm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/basic/plot_properties.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/basic/plot_read_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/chess_masters_WCC.pgn.bz2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/knuth_miles.txt.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/lanl_routes.edgelist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_atlas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_chess_masters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_circular_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_degree_histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_degree_rank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_directed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_edge_colormap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_ego_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_four_grids.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_giant_component.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_house_with_colors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_knuth_miles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_labels_and_colors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_lanl_routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_node_colormap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_random_geometric_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_sampson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_simple_path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_spectral_grid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_unix_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/plot_weighted_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/drawing/unix_email.mbox" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/atlas2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/expected_degree_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/plot_degree_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/plot_erdos_renyi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/plot_football.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/plot_karate_club.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/plot_napoleon_russian_campaign.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/plot_roget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/roget_dat.txt.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/graph/words_dat.txt.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/javascript/force.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/jit/plot_rgraph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/pygraphviz/pygraphviz_attributes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/pygraphviz/pygraphviz_draw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/pygraphviz/pygraphviz_simple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/pygraphviz/write_dotfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/subclass/plot_antigraph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/examples/subclass/plot_printgraph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.1/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/man/man1/ipython.1.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlres.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xgboost.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zz.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calcQuantile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process_test_dataset.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logisticRegression.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/logisticRegression.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process.py" beforeDir="false" afterPath="$PROJECT_DIR$/process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xgboost.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/xgboost.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zz.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zz.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -128,30 +39,33 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="build.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="process.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/process.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="7144">
+              <caret line="378" selection-start-line="378" selection-end-line="378" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zz.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zz.py">
+      <file leaf-file-name="calcQuantile.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/calcQuantile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="1596">
+              <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="process_train_dataset.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/process_train_dataset.sql">
+      <file leaf-file-name="process_test_dataset.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/process_test_dataset.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="19">
+              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -170,6 +84,7 @@
       <find>is_mod</find>
       <find>cons</find>
       <find>margin</find>
+      <find>activity_new_amfioduwmscbccofekcfcxpxokiiadpx</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -182,9 +97,14 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/process_train_dataset.sql" />
         <option value="$PROJECT_DIR$/zz.py" />
-        <option value="$PROJECT_DIR$/build.py" />
-        <option value="$PROJECT_DIR$/process.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/build.py" />
+        <option value="$PROJECT_DIR$/calcQuantile.py" />
+        <option value="$PROJECT_DIR$/build_pipe.py" />
+        <option value="$PROJECT_DIR$/plot_roc.py" />
+        <option value="$PROJECT_DIR$/process_test_dataset.sql" />
+        <option value="$PROJECT_DIR$/process.py" />
+        <option value="$PROJECT_DIR$/score.py" />
       </list>
     </option>
   </component>
@@ -215,11 +135,6 @@
               <item name="bcg" type="b2602c69:ProjectViewProjectNode" />
               <item name="bcg" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bcg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bcg" type="462c0819:PsiDirectoryNode" />
-              <item name="share" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -229,6 +144,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -242,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.zz">
+  <component name="RunManager" selected="Python.plot_roc">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="bcg" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,6 +178,63 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="build" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bcg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="build_pipe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bcg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build_pipe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="plot_roc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bcg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_roc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,9 +281,15 @@
     <list>
       <item itemvalue="Python.test" />
       <item itemvalue="Python.zz" />
+      <item itemvalue="Python.build_pipe" />
+      <item itemvalue="Python.build" />
+      <item itemvalue="Python.plot_roc" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.plot_roc" />
+        <item itemvalue="Python.build" />
+        <item itemvalue="Python.build_pipe" />
         <item itemvalue="Python.zz" />
         <item itemvalue="Python.test" />
       </list>
@@ -326,29 +310,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="9" weight="0.32965517" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Python Console" order="3" weight="0.28827587" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.5089655" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23034154" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32893774" />
+      <window_info anchor="bottom" id="Python Console" order="3" visible="true" weight="0.2137931" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.45655173" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.50695974" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1437649" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database" order="8" weight="0.32893774" />
-      <window_info anchor="bottom" id="SciView" order="14" weight="0.61778474" />
+      <window_info anchor="bottom" id="SciView" order="14" weight="0.33772895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="269" height="1240" id="Documentation" order="3" side_tool="true" weight="0.32928804" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="right" x="0" y="0" width="269" height="1240" id="Documentation" side_tool="true" weight="0.32928804" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32965517" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,17 +342,40 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/process.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="7144">
+          <caret line="378" selection-start-line="378" selection-end-line="378" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/calcQuantile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="1596">
+          <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process_test_dataset.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="150" column="20" selection-start-line="150" selection-start-column="20" selection-end-line="150" selection-end-column="20" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
@@ -376,25 +384,95 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/process_train_dataset.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/process.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        <state relative-caret-position="2850">
+          <caret line="150" column="20" selection-start-line="150" selection-start-column="20" selection-end-line="150" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.py">
+    <entry file="file://$PROJECT_DIR$/process_train_dataset.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_roc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calcQuantile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_roc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_pipe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="68" column="3" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.py" />
+    <entry file="file://$PROJECT_DIR$/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
@@ -402,10 +480,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zz.py">
+    <entry file="file://$PROJECT_DIR$/zz.py" />
+    <entry file="file://$PROJECT_DIR$/build.py" />
+    <entry file="file://$PROJECT_DIR$/data/ml_case_training_data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process_train_dataset.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="19">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ml_case_test_output_template.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-498" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ml_case_training_output.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="45" column="74" selection-start-line="45" selection-start-column="74" selection-end-line="45" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_pipe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-647">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_roc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1173">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calcQuantile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7144">
+          <caret line="378" selection-start-line="378" selection-end-line="378" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process_test_dataset.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
         </state>
       </provider>
     </entry>
